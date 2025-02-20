@@ -2,7 +2,7 @@
 
 ##Overview
 
-This project is an automated web scraping solution developed to extract event data from dynamic web pages. By leveraging Selenium and BeautifulSoup, the project efficiently gathers, processes, and exports structured data for further analysis.
+*This project is an automated web scraping solution developed to extract event data from dynamic web pages. By leveraging Selenium and BeautifulSoup, the project efficiently gathers, processes, and exports   structured data for further analysis.
 
 ##Features
 
