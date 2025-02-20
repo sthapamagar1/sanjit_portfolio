@@ -1,4 +1,4 @@
-# Dynamic Web Scraping Project
+# Dynamic Web Scraping Project (https://sthapamagar1.github.io/sanjit_portfolio/)
 
 ## Overview
 This project focuses on automating web scraping to extract event data from dynamic web pages. Using Selenium and BeautifulSoup, the scraper efficiently gathers, processes, and exports structured data for further analysis.
